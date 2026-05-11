@@ -1,0 +1,22 @@
+/* Title banner background */
+.quarto-title-block .quarto-title-banner {
+    background-color: #d95f02;
+    padding: 2rem 1rem;
+}
+
+/* Force ALL text in the banner to be white */
+.quarto-title-block .quarto-title-banner,
+.quarto-title-block .quarto-title-banner * {
+    color: white !important;
+}
+
+/* Make title stand out more */
+.quarto-title-block .title {
+    font-weight: 700;
+    font-size: 2em;
+}
+
+/* Optional: slightly soften metadata (author, date) */
+.quarto-title-block .quarto-title-meta {
+    opacity: 0.9;
+}

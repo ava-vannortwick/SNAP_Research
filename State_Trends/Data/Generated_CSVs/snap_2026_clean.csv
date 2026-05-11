@@ -1,0 +1,613 @@
+state,month,households,persons,region,year
+Connecticut,Oct 2025,209322,348163,NERO,2026
+Connecticut,Nov 2025,204188,338147,NERO,2026
+Connecticut,Dec 2025,--,--,NERO,2026
+Connecticut,Jan 2026,--,--,NERO,2026
+Connecticut,Feb 2026,--,--,NERO,2026
+Connecticut,Mar 2026,--,--,NERO,2026
+Connecticut,Apr 2026,--,--,NERO,2026
+Connecticut,May 2026,--,--,NERO,2026
+Connecticut,Jun 2026,--,--,NERO,2026
+Connecticut,Jul 2026,--,--,NERO,2026
+Connecticut,Aug 2026,--,--,NERO,2026
+Connecticut,Sep 2026,--,--,NERO,2026
+Maine,Oct 2025,94870,159476,NERO,2026
+Maine,Nov 2025,94351,158388,NERO,2026
+Maine,Dec 2025,--,--,NERO,2026
+Maine,Jan 2026,--,--,NERO,2026
+Maine,Feb 2026,--,--,NERO,2026
+Maine,Mar 2026,--,--,NERO,2026
+Maine,Apr 2026,--,--,NERO,2026
+Maine,May 2026,--,--,NERO,2026
+Maine,Jun 2026,--,--,NERO,2026
+Maine,Jul 2026,--,--,NERO,2026
+Maine,Aug 2026,--,--,NERO,2026
+Maine,Sep 2026,--,--,NERO,2026
+Massachusetts,Oct 2025,646073,1048515,NERO,2026
+Massachusetts,Nov 2025,631699,1023313,NERO,2026
+Massachusetts,Dec 2025,--,--,NERO,2026
+Massachusetts,Jan 2026,--,--,NERO,2026
+Massachusetts,Feb 2026,--,--,NERO,2026
+Massachusetts,Mar 2026,--,--,NERO,2026
+Massachusetts,Apr 2026,--,--,NERO,2026
+Massachusetts,May 2026,--,--,NERO,2026
+Massachusetts,Jun 2026,--,--,NERO,2026
+Massachusetts,Jul 2026,--,--,NERO,2026
+Massachusetts,Aug 2026,--,--,NERO,2026
+Massachusetts,Sep 2026,--,--,NERO,2026
+New Hampshire,Oct 2025,43041,76145,NERO,2026
+New Hampshire,Nov 2025,42473,75087,NERO,2026
+New Hampshire,Dec 2025,--,--,NERO,2026
+New Hampshire,Jan 2026,--,--,NERO,2026
+New Hampshire,Feb 2026,--,--,NERO,2026
+New Hampshire,Mar 2026,--,--,NERO,2026
+New Hampshire,Apr 2026,--,--,NERO,2026
+New Hampshire,May 2026,--,--,NERO,2026
+New Hampshire,Jun 2026,--,--,NERO,2026
+New Hampshire,Jul 2026,--,--,NERO,2026
+New Hampshire,Aug 2026,--,--,NERO,2026
+New Hampshire,Sep 2026,--,--,NERO,2026
+New York,Oct 2025,1713499,2889725,NERO,2026
+New York,Nov 2025,1695051,2855955,NERO,2026
+New York,Dec 2025,--,--,NERO,2026
+New York,Jan 2026,--,--,NERO,2026
+New York,Feb 2026,--,--,NERO,2026
+New York,Mar 2026,--,--,NERO,2026
+New York,Apr 2026,--,--,NERO,2026
+New York,May 2026,--,--,NERO,2026
+New York,Jun 2026,--,--,NERO,2026
+New York,Jul 2026,--,--,NERO,2026
+New York,Aug 2026,--,--,NERO,2026
+New York,Sep 2026,--,--,NERO,2026
+Rhode Island,Oct 2025,85270,135579,NERO,2026
+Rhode Island,Nov 2025,83552,132146,NERO,2026
+Rhode Island,Dec 2025,--,--,NERO,2026
+Rhode Island,Jan 2026,--,--,NERO,2026
+Rhode Island,Feb 2026,--,--,NERO,2026
+Rhode Island,Mar 2026,--,--,NERO,2026
+Rhode Island,Apr 2026,--,--,NERO,2026
+Rhode Island,May 2026,--,--,NERO,2026
+Rhode Island,Jun 2026,--,--,NERO,2026
+Rhode Island,Jul 2026,--,--,NERO,2026
+Rhode Island,Aug 2026,--,--,NERO,2026
+Rhode Island,Sep 2026,--,--,NERO,2026
+Vermont,Oct 2025,38326,62662,NERO,2026
+Vermont,Nov 2025,37920,61707,NERO,2026
+Vermont,Dec 2025,--,--,NERO,2026
+Vermont,Jan 2026,--,--,NERO,2026
+Vermont,Feb 2026,--,--,NERO,2026
+Vermont,Mar 2026,--,--,NERO,2026
+Vermont,Apr 2026,--,--,NERO,2026
+Vermont,May 2026,--,--,NERO,2026
+Vermont,Jun 2026,--,--,NERO,2026
+Vermont,Jul 2026,--,--,NERO,2026
+Vermont,Aug 2026,--,--,NERO,2026
+Vermont,Sep 2026,--,--,NERO,2026
+Delaware,Oct 2025,59773,117709,MARO,2026
+Delaware,Nov 2025,61247,120848,MARO,2026
+Delaware,Dec 2025,--,--,MARO,2026
+Delaware,Jan 2026,--,--,MARO,2026
+Delaware,Feb 2026,--,--,MARO,2026
+Delaware,Mar 2026,--,--,MARO,2026
+Delaware,Apr 2026,--,--,MARO,2026
+Delaware,May 2026,--,--,MARO,2026
+Delaware,Jun 2026,--,--,MARO,2026
+Delaware,Jul 2026,--,--,MARO,2026
+Delaware,Aug 2026,--,--,MARO,2026
+Delaware,Sep 2026,--,--,MARO,2026
+District of Columbia,Oct 2025,84857,139620,MARO,2026
+District of Columbia,Nov 2025,84021,139966,MARO,2026
+District of Columbia,Dec 2025,--,--,MARO,2026
+District of Columbia,Jan 2026,--,--,MARO,2026
+District of Columbia,Feb 2026,--,--,MARO,2026
+District of Columbia,Mar 2026,--,--,MARO,2026
+District of Columbia,Apr 2026,--,--,MARO,2026
+District of Columbia,May 2026,--,--,MARO,2026
+District of Columbia,Jun 2026,--,--,MARO,2026
+District of Columbia,Jul 2026,--,--,MARO,2026
+District of Columbia,Aug 2026,--,--,MARO,2026
+District of Columbia,Sep 2026,--,--,MARO,2026
+Maryland,Oct 2025,369891,665503,MARO,2026
+Maryland,Nov 2025,336945,625814,MARO,2026
+Maryland,Dec 2025,--,--,MARO,2026
+Maryland,Jan 2026,--,--,MARO,2026
+Maryland,Feb 2026,--,--,MARO,2026
+Maryland,Mar 2026,--,--,MARO,2026
+Maryland,Apr 2026,--,--,MARO,2026
+Maryland,May 2026,--,--,MARO,2026
+Maryland,Jun 2026,--,--,MARO,2026
+Maryland,Jul 2026,--,--,MARO,2026
+Maryland,Aug 2026,--,--,MARO,2026
+Maryland,Sep 2026,--,--,MARO,2026
+New Jersey,Oct 2025,437950,816513,MARO,2026
+New Jersey,Nov 2025,430579,800681,MARO,2026
+New Jersey,Dec 2025,--,--,MARO,2026
+New Jersey,Jan 2026,--,--,MARO,2026
+New Jersey,Feb 2026,--,--,MARO,2026
+New Jersey,Mar 2026,--,--,MARO,2026
+New Jersey,Apr 2026,--,--,MARO,2026
+New Jersey,May 2026,--,--,MARO,2026
+New Jersey,Jun 2026,--,--,MARO,2026
+New Jersey,Jul 2026,--,--,MARO,2026
+New Jersey,Aug 2026,--,--,MARO,2026
+New Jersey,Sep 2026,--,--,MARO,2026
+Pennsylvania,Oct 2025,1029754,1879268,MARO,2026
+Pennsylvania,Nov 2025,1008970,1837300,MARO,2026
+Pennsylvania,Dec 2025,--,--,MARO,2026
+Pennsylvania,Jan 2026,--,--,MARO,2026
+Pennsylvania,Feb 2026,--,--,MARO,2026
+Pennsylvania,Mar 2026,--,--,MARO,2026
+Pennsylvania,Apr 2026,--,--,MARO,2026
+Pennsylvania,May 2026,--,--,MARO,2026
+Pennsylvania,Jun 2026,--,--,MARO,2026
+Pennsylvania,Jul 2026,--,--,MARO,2026
+Pennsylvania,Aug 2026,--,--,MARO,2026
+Pennsylvania,Sep 2026,--,--,MARO,2026
+Virginia,Oct 2025,398826,768115,MARO,2026
+Virginia,Nov 2025,425751,834680,MARO,2026
+Virginia,Dec 2025,--,--,MARO,2026
+Virginia,Jan 2026,--,--,MARO,2026
+Virginia,Feb 2026,--,--,MARO,2026
+Virginia,Mar 2026,--,--,MARO,2026
+Virginia,Apr 2026,--,--,MARO,2026
+Virginia,May 2026,--,--,MARO,2026
+Virginia,Jun 2026,--,--,MARO,2026
+Virginia,Jul 2026,--,--,MARO,2026
+Virginia,Aug 2026,--,--,MARO,2026
+Virginia,Sep 2026,--,--,MARO,2026
+West Virginia,Oct 2025,143742,268514,MARO,2026
+West Virginia,Nov 2025,141403,263723,MARO,2026
+West Virginia,Dec 2025,--,--,MARO,2026
+West Virginia,Jan 2026,--,--,MARO,2026
+West Virginia,Feb 2026,--,--,MARO,2026
+West Virginia,Mar 2026,--,--,MARO,2026
+West Virginia,Apr 2026,--,--,MARO,2026
+West Virginia,May 2026,--,--,MARO,2026
+West Virginia,Jun 2026,--,--,MARO,2026
+West Virginia,Jul 2026,--,--,MARO,2026
+West Virginia,Aug 2026,--,--,MARO,2026
+West Virginia,Sep 2026,--,--,MARO,2026
+Alabama,Oct 2025,362548,722477,SERO,2026
+Alabama,Nov 2025,354695,707340,SERO,2026
+Alabama,Dec 2025,--,--,SERO,2026
+Alabama,Jan 2026,--,--,SERO,2026
+Alabama,Feb 2026,--,--,SERO,2026
+Alabama,Mar 2026,--,--,SERO,2026
+Alabama,Apr 2026,--,--,SERO,2026
+Alabama,May 2026,--,--,SERO,2026
+Alabama,Jun 2026,--,--,SERO,2026
+Alabama,Jul 2026,--,--,SERO,2026
+Alabama,Aug 2026,--,--,SERO,2026
+Alabama,Sep 2026,--,--,SERO,2026
+Florida,Oct 2025,1558431,2755013,SERO,2026
+Florida,Nov 2025,1503968,2656217,SERO,2026
+Florida,Dec 2025,--,--,SERO,2026
+Florida,Jan 2026,--,--,SERO,2026
+Florida,Feb 2026,--,--,SERO,2026
+Florida,Mar 2026,--,--,SERO,2026
+Florida,Apr 2026,--,--,SERO,2026
+Florida,May 2026,--,--,SERO,2026
+Florida,Jun 2026,--,--,SERO,2026
+Florida,Jul 2026,--,--,SERO,2026
+Florida,Aug 2026,--,--,SERO,2026
+Florida,Sep 2026,--,--,SERO,2026
+Georgia,Oct 2025,723500,1908523,SERO,2026
+Georgia,Nov 2025,704325,1857209,SERO,2026
+Georgia,Dec 2025,--,--,SERO,2026
+Georgia,Jan 2026,--,--,SERO,2026
+Georgia,Feb 2026,--,--,SERO,2026
+Georgia,Mar 2026,--,--,SERO,2026
+Georgia,Apr 2026,--,--,SERO,2026
+Georgia,May 2026,--,--,SERO,2026
+Georgia,Jun 2026,--,--,SERO,2026
+Georgia,Jul 2026,--,--,SERO,2026
+Georgia,Aug 2026,--,--,SERO,2026
+Georgia,Sep 2026,--,--,SERO,2026
+Kentucky,Oct 2025,285568,598629,SERO,2026
+Kentucky,Nov 2025,281875,591669,SERO,2026
+Kentucky,Dec 2025,--,--,SERO,2026
+Kentucky,Jan 2026,--,--,SERO,2026
+Kentucky,Feb 2026,--,--,SERO,2026
+Kentucky,Mar 2026,--,--,SERO,2026
+Kentucky,Apr 2026,--,--,SERO,2026
+Kentucky,May 2026,--,--,SERO,2026
+Kentucky,Jun 2026,--,--,SERO,2026
+Kentucky,Jul 2026,--,--,SERO,2026
+Kentucky,Aug 2026,--,--,SERO,2026
+Kentucky,Sep 2026,--,--,SERO,2026
+Mississippi,Oct 2025,175442,352065,SERO,2026
+Mississippi,Nov 2025,170057,340676,SERO,2026
+Mississippi,Dec 2025,--,--,SERO,2026
+Mississippi,Jan 2026,--,--,SERO,2026
+Mississippi,Feb 2026,--,--,SERO,2026
+Mississippi,Mar 2026,--,--,SERO,2026
+Mississippi,Apr 2026,--,--,SERO,2026
+Mississippi,May 2026,--,--,SERO,2026
+Mississippi,Jun 2026,--,--,SERO,2026
+Mississippi,Jul 2026,--,--,SERO,2026
+Mississippi,Aug 2026,--,--,SERO,2026
+Mississippi,Sep 2026,--,--,SERO,2026
+North Carolina,Oct 2025,670870,1347859,SERO,2026
+North Carolina,Nov 2025,655226,1313857,SERO,2026
+North Carolina,Dec 2025,--,--,SERO,2026
+North Carolina,Jan 2026,--,--,SERO,2026
+North Carolina,Feb 2026,--,--,SERO,2026
+North Carolina,Mar 2026,--,--,SERO,2026
+North Carolina,Apr 2026,--,--,SERO,2026
+North Carolina,May 2026,--,--,SERO,2026
+North Carolina,Jun 2026,--,--,SERO,2026
+North Carolina,Jul 2026,--,--,SERO,2026
+North Carolina,Aug 2026,--,--,SERO,2026
+North Carolina,Sep 2026,--,--,SERO,2026
+South Carolina,Oct 2025,263545,549979,SERO,2026
+South Carolina,Nov 2025,255990,533298,SERO,2026
+South Carolina,Dec 2025,--,--,SERO,2026
+South Carolina,Jan 2026,--,--,SERO,2026
+South Carolina,Feb 2026,--,--,SERO,2026
+South Carolina,Mar 2026,--,--,SERO,2026
+South Carolina,Apr 2026,--,--,SERO,2026
+South Carolina,May 2026,--,--,SERO,2026
+South Carolina,Jun 2026,--,--,SERO,2026
+South Carolina,Jul 2026,--,--,SERO,2026
+South Carolina,Aug 2026,--,--,SERO,2026
+South Carolina,Sep 2026,--,--,SERO,2026
+Tennessee,Oct 2025,324519,632974,SERO,2026
+Tennessee,Nov 2025,351434,706856,SERO,2026
+Tennessee,Dec 2025,--,--,SERO,2026
+Tennessee,Jan 2026,--,--,SERO,2026
+Tennessee,Feb 2026,--,--,SERO,2026
+Tennessee,Mar 2026,--,--,SERO,2026
+Tennessee,Apr 2026,--,--,SERO,2026
+Tennessee,May 2026,--,--,SERO,2026
+Tennessee,Jun 2026,--,--,SERO,2026
+Tennessee,Jul 2026,--,--,SERO,2026
+Tennessee,Aug 2026,--,--,SERO,2026
+Tennessee,Sep 2026,--,--,SERO,2026
+Illinois,Oct 2025,1018182,1841261,MWRO,2026
+Illinois,Nov 2025,1018151,1843515,MWRO,2026
+Illinois,Dec 2025,--,--,MWRO,2026
+Illinois,Jan 2026,--,--,MWRO,2026
+Illinois,Feb 2026,--,--,MWRO,2026
+Illinois,Mar 2026,--,--,MWRO,2026
+Illinois,Apr 2026,--,--,MWRO,2026
+Illinois,May 2026,--,--,MWRO,2026
+Illinois,Jun 2026,--,--,MWRO,2026
+Illinois,Jul 2026,--,--,MWRO,2026
+Illinois,Aug 2026,--,--,MWRO,2026
+Illinois,Sep 2026,--,--,MWRO,2026
+Indiana,Oct 2025,273834,570608,MWRO,2026
+Indiana,Nov 2025,269370,559012,MWRO,2026
+Indiana,Dec 2025,--,--,MWRO,2026
+Indiana,Jan 2026,--,--,MWRO,2026
+Indiana,Feb 2026,--,--,MWRO,2026
+Indiana,Mar 2026,--,--,MWRO,2026
+Indiana,Apr 2026,--,--,MWRO,2026
+Indiana,May 2026,--,--,MWRO,2026
+Indiana,Jun 2026,--,--,MWRO,2026
+Indiana,Jul 2026,--,--,MWRO,2026
+Indiana,Aug 2026,--,--,MWRO,2026
+Indiana,Sep 2026,--,--,MWRO,2026
+Iowa,Oct 2025,129228,264188,MWRO,2026
+Iowa,Nov 2025,126272,254688,MWRO,2026
+Iowa,Dec 2025,--,--,MWRO,2026
+Iowa,Jan 2026,--,--,MWRO,2026
+Iowa,Feb 2026,--,--,MWRO,2026
+Iowa,Mar 2026,--,--,MWRO,2026
+Iowa,Apr 2026,--,--,MWRO,2026
+Iowa,May 2026,--,--,MWRO,2026
+Iowa,Jun 2026,--,--,MWRO,2026
+Iowa,Jul 2026,--,--,MWRO,2026
+Iowa,Aug 2026,--,--,MWRO,2026
+Iowa,Sep 2026,--,--,MWRO,2026
+Michigan,Oct 2025,774024,1463909,MWRO,2026
+Michigan,Nov 2025,780003,1469302,MWRO,2026
+Michigan,Dec 2025,--,--,MWRO,2026
+Michigan,Jan 2026,--,--,MWRO,2026
+Michigan,Feb 2026,--,--,MWRO,2026
+Michigan,Mar 2026,--,--,MWRO,2026
+Michigan,Apr 2026,--,--,MWRO,2026
+Michigan,May 2026,--,--,MWRO,2026
+Michigan,Jun 2026,--,--,MWRO,2026
+Michigan,Jul 2026,--,--,MWRO,2026
+Michigan,Aug 2026,--,--,MWRO,2026
+Michigan,Sep 2026,--,--,MWRO,2026
+Minnesota,Oct 2025,237457,452713,MWRO,2026
+Minnesota,Nov 2025,232220,441676,MWRO,2026
+Minnesota,Dec 2025,--,--,MWRO,2026
+Minnesota,Jan 2026,--,--,MWRO,2026
+Minnesota,Feb 2026,--,--,MWRO,2026
+Minnesota,Mar 2026,--,--,MWRO,2026
+Minnesota,Apr 2026,--,--,MWRO,2026
+Minnesota,May 2026,--,--,MWRO,2026
+Minnesota,Jun 2026,--,--,MWRO,2026
+Minnesota,Jul 2026,--,--,MWRO,2026
+Minnesota,Aug 2026,--,--,MWRO,2026
+Minnesota,Sep 2026,--,--,MWRO,2026
+Ohio,Oct 2025,731400,1426605,MWRO,2026
+Ohio,Nov 2025,715230,1385921,MWRO,2026
+Ohio,Dec 2025,--,--,MWRO,2026
+Ohio,Jan 2026,--,--,MWRO,2026
+Ohio,Feb 2026,--,--,MWRO,2026
+Ohio,Mar 2026,--,--,MWRO,2026
+Ohio,Apr 2026,--,--,MWRO,2026
+Ohio,May 2026,--,--,MWRO,2026
+Ohio,Jun 2026,--,--,MWRO,2026
+Ohio,Jul 2026,--,--,MWRO,2026
+Ohio,Aug 2026,--,--,MWRO,2026
+Ohio,Sep 2026,--,--,MWRO,2026
+Wisconsin,Oct 2025,357028,666784,MWRO,2026
+Wisconsin,Nov 2025,356162,664190,MWRO,2026
+Wisconsin,Dec 2025,--,--,MWRO,2026
+Wisconsin,Jan 2026,--,--,MWRO,2026
+Wisconsin,Feb 2026,--,--,MWRO,2026
+Wisconsin,Mar 2026,--,--,MWRO,2026
+Wisconsin,Apr 2026,--,--,MWRO,2026
+Wisconsin,May 2026,--,--,MWRO,2026
+Wisconsin,Jun 2026,--,--,MWRO,2026
+Wisconsin,Jul 2026,--,--,MWRO,2026
+Wisconsin,Aug 2026,--,--,MWRO,2026
+Wisconsin,Sep 2026,--,--,MWRO,2026
+Arizona,Oct 2025,396600,762291,SWRO,2026
+Arizona,Nov 2025,340267,659121,SWRO,2026
+Arizona,Dec 2025,--,--,SWRO,2026
+Arizona,Jan 2026,--,--,SWRO,2026
+Arizona,Feb 2026,--,--,SWRO,2026
+Arizona,Mar 2026,--,--,SWRO,2026
+Arizona,Apr 2026,--,--,SWRO,2026
+Arizona,May 2026,--,--,SWRO,2026
+Arizona,Jun 2026,--,--,SWRO,2026
+Arizona,Jul 2026,--,--,SWRO,2026
+Arizona,Aug 2026,--,--,SWRO,2026
+Arizona,Sep 2026,--,--,SWRO,2026
+Arkansas,Oct 2025,127323,243436,SWRO,2026
+Arkansas,Nov 2025,124823,237515,SWRO,2026
+Arkansas,Dec 2025,--,--,SWRO,2026
+Arkansas,Jan 2026,--,--,SWRO,2026
+Arkansas,Feb 2026,--,--,SWRO,2026
+Arkansas,Mar 2026,--,--,SWRO,2026
+Arkansas,Apr 2026,--,--,SWRO,2026
+Arkansas,May 2026,--,--,SWRO,2026
+Arkansas,Jun 2026,--,--,SWRO,2026
+Arkansas,Jul 2026,--,--,SWRO,2026
+Arkansas,Aug 2026,--,--,SWRO,2026
+Arkansas,Sep 2026,--,--,SWRO,2026
+Louisiana,Oct 2025,385966,783109,SWRO,2026
+Louisiana,Nov 2025,373037,757893,SWRO,2026
+Louisiana,Dec 2025,--,--,SWRO,2026
+Louisiana,Jan 2026,--,--,SWRO,2026
+Louisiana,Feb 2026,--,--,SWRO,2026
+Louisiana,Mar 2026,--,--,SWRO,2026
+Louisiana,Apr 2026,--,--,SWRO,2026
+Louisiana,May 2026,--,--,SWRO,2026
+Louisiana,Jun 2026,--,--,SWRO,2026
+Louisiana,Jul 2026,--,--,SWRO,2026
+Louisiana,Aug 2026,--,--,SWRO,2026
+Louisiana,Sep 2026,--,--,SWRO,2026
+New Mexico,Oct 2025,249004,457974,SWRO,2026
+New Mexico,Nov 2025,244826,449602,SWRO,2026
+New Mexico,Dec 2025,--,--,SWRO,2026
+New Mexico,Jan 2026,--,--,SWRO,2026
+New Mexico,Feb 2026,--,--,SWRO,2026
+New Mexico,Mar 2026,--,--,SWRO,2026
+New Mexico,Apr 2026,--,--,SWRO,2026
+New Mexico,May 2026,--,--,SWRO,2026
+New Mexico,Jun 2026,--,--,SWRO,2026
+New Mexico,Jul 2026,--,--,SWRO,2026
+New Mexico,Aug 2026,--,--,SWRO,2026
+New Mexico,Sep 2026,--,--,SWRO,2026
+Oklahoma,Oct 2025,329746,671759,SWRO,2026
+Oklahoma,Nov 2025,318361,648677,SWRO,2026
+Oklahoma,Dec 2025,--,--,SWRO,2026
+Oklahoma,Jan 2026,--,--,SWRO,2026
+Oklahoma,Feb 2026,--,--,SWRO,2026
+Oklahoma,Mar 2026,--,--,SWRO,2026
+Oklahoma,Apr 2026,--,--,SWRO,2026
+Oklahoma,May 2026,--,--,SWRO,2026
+Oklahoma,Jun 2026,--,--,SWRO,2026
+Oklahoma,Jul 2026,--,--,SWRO,2026
+Oklahoma,Aug 2026,--,--,SWRO,2026
+Oklahoma,Sep 2026,--,--,SWRO,2026
+Texas,Oct 2025,1574416,3427142,SWRO,2026
+Texas,Nov 2025,1552379,3369196,SWRO,2026
+Texas,Dec 2025,--,--,SWRO,2026
+Texas,Jan 2026,--,--,SWRO,2026
+Texas,Feb 2026,--,--,SWRO,2026
+Texas,Mar 2026,--,--,SWRO,2026
+Texas,Apr 2026,--,--,SWRO,2026
+Texas,May 2026,--,--,SWRO,2026
+Texas,Jun 2026,--,--,SWRO,2026
+Texas,Jul 2026,--,--,SWRO,2026
+Texas,Aug 2026,--,--,SWRO,2026
+Texas,Sep 2026,--,--,SWRO,2026
+Utah,Oct 2025,86745,170637,SWRO,2026
+Utah,Nov 2025,83382,165723,SWRO,2026
+Utah,Dec 2025,--,--,SWRO,2026
+Utah,Jan 2026,--,--,SWRO,2026
+Utah,Feb 2026,--,--,SWRO,2026
+Utah,Mar 2026,--,--,SWRO,2026
+Utah,Apr 2026,--,--,SWRO,2026
+Utah,May 2026,--,--,SWRO,2026
+Utah,Jun 2026,--,--,SWRO,2026
+Utah,Jul 2026,--,--,SWRO,2026
+Utah,Aug 2026,--,--,SWRO,2026
+Utah,Sep 2026,--,--,SWRO,2026
+Colorado,Oct 2025,324413,596006,MPRO,2026
+Colorado,Nov 2025,336586,591432,MPRO,2026
+Colorado,Dec 2025,--,--,MPRO,2026
+Colorado,Jan 2026,--,--,MPRO,2026
+Colorado,Feb 2026,--,--,MPRO,2026
+Colorado,Mar 2026,--,--,MPRO,2026
+Colorado,Apr 2026,--,--,MPRO,2026
+Colorado,May 2026,--,--,MPRO,2026
+Colorado,Jun 2026,--,--,MPRO,2026
+Colorado,Jul 2026,--,--,MPRO,2026
+Colorado,Aug 2026,--,--,MPRO,2026
+Colorado,Sep 2026,--,--,MPRO,2026
+Kansas,Oct 2025,92812,184596,MPRO,2026
+Kansas,Nov 2025,90363,179285,MPRO,2026
+Kansas,Dec 2025,--,--,MPRO,2026
+Kansas,Jan 2026,--,--,MPRO,2026
+Kansas,Feb 2026,--,--,MPRO,2026
+Kansas,Mar 2026,--,--,MPRO,2026
+Kansas,Apr 2026,--,--,MPRO,2026
+Kansas,May 2026,--,--,MPRO,2026
+Kansas,Jun 2026,--,--,MPRO,2026
+Kansas,Jul 2026,--,--,MPRO,2026
+Kansas,Aug 2026,--,--,MPRO,2026
+Kansas,Sep 2026,--,--,MPRO,2026
+Missouri,Oct 2025,325168,659757,MPRO,2026
+Missouri,Nov 2025,317096,642563,MPRO,2026
+Missouri,Dec 2025,--,--,MPRO,2026
+Missouri,Jan 2026,--,--,MPRO,2026
+Missouri,Feb 2026,--,--,MPRO,2026
+Missouri,Mar 2026,--,--,MPRO,2026
+Missouri,Apr 2026,--,--,MPRO,2026
+Missouri,May 2026,--,--,MPRO,2026
+Missouri,Jun 2026,--,--,MPRO,2026
+Missouri,Jul 2026,--,--,MPRO,2026
+Missouri,Aug 2026,--,--,MPRO,2026
+Missouri,Sep 2026,--,--,MPRO,2026
+Montana,Oct 2025,40242,76898,MPRO,2026
+Montana,Nov 2025,38943,73894,MPRO,2026
+Montana,Dec 2025,--,--,MPRO,2026
+Montana,Jan 2026,--,--,MPRO,2026
+Montana,Feb 2026,--,--,MPRO,2026
+Montana,Mar 2026,--,--,MPRO,2026
+Montana,Apr 2026,--,--,MPRO,2026
+Montana,May 2026,--,--,MPRO,2026
+Montana,Jun 2026,--,--,MPRO,2026
+Montana,Jul 2026,--,--,MPRO,2026
+Montana,Aug 2026,--,--,MPRO,2026
+Montana,Sep 2026,--,--,MPRO,2026
+Nebraska,Oct 2025,72853,146368,MPRO,2026
+Nebraska,Nov 2025,70341,140661,MPRO,2026
+Nebraska,Dec 2025,--,--,MPRO,2026
+Nebraska,Jan 2026,--,--,MPRO,2026
+Nebraska,Feb 2026,--,--,MPRO,2026
+Nebraska,Mar 2026,--,--,MPRO,2026
+Nebraska,Apr 2026,--,--,MPRO,2026
+Nebraska,May 2026,--,--,MPRO,2026
+Nebraska,Jun 2026,--,--,MPRO,2026
+Nebraska,Jul 2026,--,--,MPRO,2026
+Nebraska,Aug 2026,--,--,MPRO,2026
+Nebraska,Sep 2026,--,--,MPRO,2026
+North Dakota,Oct 2025,3273,7130,MPRO,2026
+North Dakota,Nov 2025,27446,54616,MPRO,2026
+North Dakota,Dec 2025,--,--,MPRO,2026
+North Dakota,Jan 2026,--,--,MPRO,2026
+North Dakota,Feb 2026,--,--,MPRO,2026
+North Dakota,Mar 2026,--,--,MPRO,2026
+North Dakota,Apr 2026,--,--,MPRO,2026
+North Dakota,May 2026,--,--,MPRO,2026
+North Dakota,Jun 2026,--,--,MPRO,2026
+North Dakota,Jul 2026,--,--,MPRO,2026
+North Dakota,Aug 2026,--,--,MPRO,2026
+North Dakota,Sep 2026,--,--,MPRO,2026
+South Dakota,Oct 2025,36890,73138,MPRO,2026
+South Dakota,Nov 2025,35890,70961,MPRO,2026
+South Dakota,Dec 2025,--,--,MPRO,2026
+South Dakota,Jan 2026,--,--,MPRO,2026
+South Dakota,Feb 2026,--,--,MPRO,2026
+South Dakota,Mar 2026,--,--,MPRO,2026
+South Dakota,Apr 2026,--,--,MPRO,2026
+South Dakota,May 2026,--,--,MPRO,2026
+South Dakota,Jun 2026,--,--,MPRO,2026
+South Dakota,Jul 2026,--,--,MPRO,2026
+South Dakota,Aug 2026,--,--,MPRO,2026
+South Dakota,Sep 2026,--,--,MPRO,2026
+Wyoming,Oct 2025,12693,26347,MPRO,2026
+Wyoming,Nov 2025,12224,25460,MPRO,2026
+Wyoming,Dec 2025,--,--,MPRO,2026
+Wyoming,Jan 2026,--,--,MPRO,2026
+Wyoming,Feb 2026,--,--,MPRO,2026
+Wyoming,Mar 2026,--,--,MPRO,2026
+Wyoming,Apr 2026,--,--,MPRO,2026
+Wyoming,May 2026,--,--,MPRO,2026
+Wyoming,Jun 2026,--,--,MPRO,2026
+Wyoming,Jul 2026,--,--,MPRO,2026
+Wyoming,Aug 2026,--,--,MPRO,2026
+Wyoming,Sep 2026,--,--,MPRO,2026
+Alaska,Oct 2025,29934,63159,WRO,2026
+Alaska,Nov 2025,30461,65660,WRO,2026
+Alaska,Dec 2025,--,--,WRO,2026
+Alaska,Jan 2026,--,--,WRO,2026
+Alaska,Feb 2026,--,--,WRO,2026
+Alaska,Mar 2026,--,--,WRO,2026
+Alaska,Apr 2026,--,--,WRO,2026
+Alaska,May 2026,--,--,WRO,2026
+Alaska,Jun 2026,--,--,WRO,2026
+Alaska,Jul 2026,--,--,WRO,2026
+Alaska,Aug 2026,--,--,WRO,2026
+Alaska,Sep 2026,--,--,WRO,2026
+California,Oct 2025,3181984,5339623,WRO,2026
+California,Nov 2025,3144271,5268346,WRO,2026
+California,Dec 2025,--,--,WRO,2026
+California,Jan 2026,--,--,WRO,2026
+California,Feb 2026,--,--,WRO,2026
+California,Mar 2026,--,--,WRO,2026
+California,Apr 2026,--,--,WRO,2026
+California,May 2026,--,--,WRO,2026
+California,Jun 2026,--,--,WRO,2026
+California,Jul 2026,--,--,WRO,2026
+California,Aug 2026,--,--,WRO,2026
+California,Sep 2026,--,--,WRO,2026
+Hawaii,Oct 2025,86471,169602,WRO,2026
+Hawaii,Nov 2025,83155,165250,WRO,2026
+Hawaii,Dec 2025,--,--,WRO,2026
+Hawaii,Jan 2026,--,--,WRO,2026
+Hawaii,Feb 2026,--,--,WRO,2026
+Hawaii,Mar 2026,--,--,WRO,2026
+Hawaii,Apr 2026,--,--,WRO,2026
+Hawaii,May 2026,--,--,WRO,2026
+Hawaii,Jun 2026,--,--,WRO,2026
+Hawaii,Jul 2026,--,--,WRO,2026
+Hawaii,Aug 2026,--,--,WRO,2026
+Hawaii,Sep 2026,--,--,WRO,2026
+Idaho,Oct 2025,65562,128323,WRO,2026
+Idaho,Nov 2025,63767,122468,WRO,2026
+Idaho,Dec 2025,--,--,WRO,2026
+Idaho,Jan 2026,--,--,WRO,2026
+Idaho,Feb 2026,--,--,WRO,2026
+Idaho,Mar 2026,--,--,WRO,2026
+Idaho,Apr 2026,--,--,WRO,2026
+Idaho,May 2026,--,--,WRO,2026
+Idaho,Jun 2026,--,--,WRO,2026
+Idaho,Jul 2026,--,--,WRO,2026
+Idaho,Aug 2026,--,--,WRO,2026
+Idaho,Sep 2026,--,--,WRO,2026
+Nevada,Oct 2025,255733,468331,WRO,2026
+Nevada,Nov 2025,242821,444483,WRO,2026
+Nevada,Dec 2025,--,--,WRO,2026
+Nevada,Jan 2026,--,--,WRO,2026
+Nevada,Feb 2026,--,--,WRO,2026
+Nevada,Mar 2026,--,--,WRO,2026
+Nevada,Apr 2026,--,--,WRO,2026
+Nevada,May 2026,--,--,WRO,2026
+Nevada,Jun 2026,--,--,WRO,2026
+Nevada,Jul 2026,--,--,WRO,2026
+Nevada,Aug 2026,--,--,WRO,2026
+Nevada,Sep 2026,--,--,WRO,2026
+Oregon,Oct 2025,444793,754218,WRO,2026
+Oregon,Nov 2025,435938,739791,WRO,2026
+Oregon,Dec 2025,--,--,WRO,2026
+Oregon,Jan 2026,--,--,WRO,2026
+Oregon,Feb 2026,--,--,WRO,2026
+Oregon,Mar 2026,--,--,WRO,2026
+Oregon,Apr 2026,--,--,WRO,2026
+Oregon,May 2026,--,--,WRO,2026
+Oregon,Jun 2026,--,--,WRO,2026
+Oregon,Jul 2026,--,--,WRO,2026
+Oregon,Aug 2026,--,--,WRO,2026
+Oregon,Sep 2026,--,--,WRO,2026
+Washington,Oct 2025,526694,891010,WRO,2026
+Washington,Nov 2025,514251,868861,WRO,2026
+Washington,Dec 2025,--,--,WRO,2026
+Washington,Jan 2026,--,--,WRO,2026
+Washington,Feb 2026,--,--,WRO,2026
+Washington,Mar 2026,--,--,WRO,2026
+Washington,Apr 2026,--,--,WRO,2026
+Washington,May 2026,--,--,WRO,2026
+Washington,Jun 2026,--,--,WRO,2026
+Washington,Jul 2026,--,--,WRO,2026
+Washington,Aug 2026,--,--,WRO,2026
+Washington,Sep 2026,--,--,WRO,2026

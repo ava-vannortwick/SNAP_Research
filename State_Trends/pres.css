@@ -1,0 +1,23 @@
+.reveal {
+  font-size: 1.75em;
+}
+
+.reveal h1 {
+  font-size: 1.8em;
+  color: #d95f02;  /* orange */
+}
+
+.reveal h2 {
+  font-size: 1.4em;
+  color: #d95f02;
+}
+
+.reveal p,
+.reveal ul,
+.reveal li {
+  font-size: 0.95em;
+}
+
+.reveal strong {
+  color: #268bd2;
+}
